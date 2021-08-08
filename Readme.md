@@ -1,6 +1,6 @@
 # Coding Exercises
 
-The goal of this repository is to hold a set of exercises for those who want to improve their coding practice. Each exercise will be fully self contained and contain a set of instructions to guide the reader through the proper set of steps required to perform the exercise properly.
+The goal of this repository is to hold a set of exercises for those who want to improve their coding practice. Each exercise will be fully self contained and contain a set of instructions to guide the reader through the proper set of steps required to perform the exercise properly. 
 
 ## Steps to Start
 
