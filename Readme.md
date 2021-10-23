@@ -12,7 +12,7 @@ The goal of this repository is to hold a set of exercises for those who want to 
 
 ## Directory
 
-1. Tooling
+1. Tooling 
     1. Version Control
     2. Programming Language/Platform
     3. Linter
