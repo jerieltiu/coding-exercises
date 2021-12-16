@@ -22,7 +22,7 @@ The goal of this repository is to hold a set of exercises for those who want to 
     7. Databases
     8. Web Servers
     9. Message Queues
-    10. Crons
+    10. Crons 
     11. Type System
     12. Logging
     13. Web Crawlers
