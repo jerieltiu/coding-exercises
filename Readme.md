@@ -9,7 +9,7 @@ The goal of this repository is to hold a set of exercises for those who want to 
 3. Follow along with the steps. You can check your answer against the published solutions. Solutions will always be in the `solutions` folder.
 
 **Note** In general, exercises are designed to build on each other and skills gained in earlier exercises will be needed in later ones so it is recommended to proceed in order whenever possible. 
-
+ 
 ## Directory
 
 1. Tooling 
